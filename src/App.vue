@@ -1,28 +1,31 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <v-app>
+    <v-main>
+      <HomePage />
+    </v-main>
+  </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import HomePage from "./pages/HomePage"
+import { store } from "./store/index"
 
 export default {
-  name: 'App',
+  name: "App",
+
+  data: () => ({
+    //
+  }),
+  async created() {
+    try {
+      await store.dispatch({ type: "loadData", dataType: "regions" })
+      await store.dispatch({ type: "loadData", dataType: "townList" })
+    } catch (error) {
+      console.log("Faild load data")
+    }
+  },
   components: {
-    HelloWorld
-  }
+    HomePage,
+  },
 }
 </script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>

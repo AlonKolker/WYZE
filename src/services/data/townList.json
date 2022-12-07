@@ -1,0 +1,36 @@
+
+ [
+  
+  {
+    "region":"center",
+    "town":"Tel-aviv"
+  }, 
+  {
+    "region":"south",
+    "town":"Beer-sheva"
+  },
+  {
+    "region":"center",
+    "town":"Herzliya"
+  }, 
+  {
+    "region":"south",
+    "town":"Netivot"
+  },  {
+    "region":"center",
+    "town":"Tel-aviv"
+  }, 
+  {
+    "region":"south",
+    "town":"Ashdod"
+  },
+  {
+    "region":"north",
+    "town":"Shlomi"
+  }, 
+  {
+    "region":"north",
+    "town":"Heifa"
+  }
+
+]

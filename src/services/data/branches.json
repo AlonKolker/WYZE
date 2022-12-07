@@ -1,0 +1,261 @@
+[
+  {
+    "town": "Beer-sheva",
+    "region": "south",
+    "branches": [
+      {
+        "adress": "yesod 5",
+        "number": "08-6514896"
+      },
+      {
+        "adress": "yona 2",
+        "number": "08-6513945"
+      },
+      {
+        "adress": "shoval 82",
+        "number": "08-6514896"
+      },
+      {
+        "adress": "ein-or 21",
+        "number": "08-6513945"
+      },
+      {
+        "adress": "magen 54",
+        "number": "08-6514896"
+      },
+      {
+        "adress": "shomer 5",
+        "number": "08-6513945"
+      },
+      {
+        "adress": "sereh metier 116",
+        "number": "08-6514896"
+      },
+      {
+        "adress": "sereh metier 116",
+        "number": "08-6514896"
+      },
+      {
+        "adress": "yatir 26",
+        "number": "08-6513945"
+      },
+      {
+        "adress": "tziklag 71",
+        "number": "08-6514896"
+      },
+      {
+        "adress": "zait 14",
+        "number": "08-6513945"
+      }
+    ]
+  },
+  {
+    "town": "Netivot",
+    "region": "south",
+    "branches": [
+      {
+        "adress": "shoval 82",
+        "number": "08-6514896"
+      },
+      {
+        "adress": "ein-or 21",
+        "number": "08-6513945"
+      },
+      {
+        "adress": "magen 54",
+        "number": "08-6514896"
+      },
+      {
+        "adress": "shomer 5",
+        "number": "08-6513945"
+      },
+      {
+        "adress": "sereh metier 116",
+        "number": "08-6514896"
+      },
+      {
+        "adress": "sereh metier 116",
+        "number": "08-6514896"
+      },
+      {
+        "adress": "yatir 26",
+        "number": "08-6513945"
+      },
+      {
+        "adress": "tziklag 71",
+        "number": "08-6514896"
+      },
+      {
+        "adress": "zait 14",
+        "number": "08-6513945"
+      }
+    ]
+  },
+  {
+    "town": "Ashdod",
+    "region": "south",
+    "branches": [
+      {
+        "adress": "shoval 82",
+        "number": "08-6514896"
+      },
+      {
+        "adress": "ein-or 21",
+        "number": "08-6513945"
+      }
+    ]
+  },
+
+  {
+    "town": "Tel-aviv",
+    "region": "center",
+    "branches": [
+      {
+        "adress": "yesod 5",
+        "number": "03-6514896"
+      },
+      {
+        "adress": "ein-or 21",
+        "number": "08-6513945"
+      },
+      {
+        "adress": "magen 54",
+        "number": "03-6514896"
+      },
+      {
+        "adress": "shomer 5",
+        "number": "03-6513945"
+      },
+      {
+        "adress": "sereh metier 116",
+        "number": "03-6514896"
+      },
+      {
+        "adress": "yatir 26",
+        "number": "03-6513945"
+      },
+      {
+        "adress": "tziklag 71",
+        "number": "03-6514896"
+      },
+      {
+        "adress": "zait 14",
+        "number": "03-6513945"
+      }
+    ]
+  },
+  {
+    "town": "Herzliya",
+    "region": "center",
+    "branches": [
+      {
+        "adress": "maapil 1",
+        "number": "03-6514896"
+      },
+      {
+        "adress": "ein-or 21",
+        "number": "03-6513945"
+      },
+      {
+        "adress": "magen 54",
+        "number": "03-6514896"
+      },
+      {
+        "adress": "shomer 5",
+        "number": "03-6513945"
+      },
+      {
+        "adress": "sereh metier 116",
+        "number": "03-6514896"
+      },
+      {
+        "adress": "yatir 26",
+        "number": "03-6513945"
+      },
+      {
+        "adress": "tziklag 71",
+        "number": "03-6514896"
+      },
+      {
+        "adress": "zait 14",
+        "number": "03-6513945"
+      }
+    ]
+  },
+  {
+    "town": "Shlomi",
+    "region": "center",
+    "branches": [
+      {
+        "adress": "dereh ashalom 1",
+        "number": "04-6514896"
+      },
+      {
+        "adress": "ein-or 21",
+        "number": "04-6513945"
+      },
+      {
+        "adress": "magen 54",
+        "number": "04-6514896"
+      },
+      {
+        "adress": "shomer 5",
+        "number": "04-6513945"
+      },
+      {
+        "adress": "sereh metier 116",
+        "number": "04-6514896"
+      },
+      {
+        "adress": "yatir 26",
+        "number": "04-6513945"
+      },
+      {
+        "adress": "tziklag 71",
+        "number": "04-6514896"
+      },
+      {
+        "adress": "zait 14",
+        "number": "04-6513945"
+      }
+    ]
+  },
+  {
+    "town": "Heifa",
+    "region": "center",
+    "branches": [
+      {
+        "adress": "dereh ashalom 1",
+        "number": "04-6514896"
+      },
+      {
+        "adress": "ein-or 21",
+        "number": "04-6513945"
+      },
+      {
+        "adress": "magen 54",
+        "number": "04-6514896"
+      },
+      {
+        "adress": "shomer 5",
+        "number": "04-6513945"
+      },
+      {
+        "adress": "sereh metier 116",
+        "number": "04-6514896"
+      },
+      {
+        "adress": "yatir 26",
+        "number": "04-6513945"
+      },
+      {
+        "adress": "tziklag 71",
+        "number": "04-6514896"
+      },
+      {
+        "adress": "zait 14",
+        "number": "04-6513945"
+      }
+    ]
+  }
+]
